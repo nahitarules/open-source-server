@@ -1,6 +1,6 @@
 {
-  "name": "file_server",
-  "version": "1.0.0",
+  "name": "@d10s/static_file_server",
+  "version": "1.0.1",
   "description": "static file server",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "nahitarules"
+    "url": "https://github.com/nahitarules/open-source-server"
   },
   "author": "Nahome Gudeta",
   "license": "ISC"
